@@ -1,1 +1,1 @@
-I am student
+'hello world script'
