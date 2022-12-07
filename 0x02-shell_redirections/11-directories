@@ -1,0 +1,2 @@
+11-directories
+find . -type d ! -path . | wc -l
