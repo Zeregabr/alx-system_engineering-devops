@@ -1,2 +1,2 @@
-11-directories
+#!/bin/bash
 find . -type d ! -path . | wc -l
